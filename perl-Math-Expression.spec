@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	Expression
+%define		pdir	Math
+%define		pnam	Expression
 Summary:	Math::Expression - evaluate arithmetic/string expressions
 Summary(pl):	Math::Expression - obliczanie wyra¿eñ arytmetycznych i na ³añcuchach znaków
 Name:		perl-Math-Expression
