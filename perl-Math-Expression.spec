@@ -33,7 +33,7 @@ Ten modu³ rozwi±zuje problem obliczania wyra¿eñ odczytywanych z plików
 konfiguracyjnych bez u¿ywania eval. Obs³ugiwane s± operatory
 arytmetyczne i na ³añcuchach znaków, a tak¿e: warunki, tablice i
 funkcje. Przestrzeñ nazw jest zarz±dzana (ze wzglêdów bezpieczeñstwa),
-mog± byc podane funkcje do ustawiania i pobierania warto¶ci zmiennych.
+mog± byæ podane funkcje do ustawiania i pobierania warto¶ci zmiennych.
 Komunikaty b³êdów mog± byæ przekazywane przez podan± funkcjê. Modu³
 nie jest przeznaczony do skomplikowanych obliczeñ.
 
