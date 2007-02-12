@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Expression
 Summary:	Math::Expression - evaluate arithmetic/string expressions
-Summary(pl):	Math::Expression - obliczanie wyra¿eñ arytmetycznych i na ³añcuchach znaków
+Summary(pl.UTF-8):   Math::Expression - obliczanie wyraÅ¼eÅ„ arytmetycznych i na Å‚aÅ„cuchach znakÃ³w
 Name:		perl-Math-Expression
 Version:	1.14
 Release:	1
@@ -28,14 +28,14 @@ name-space is managed (for security), user provided functions may be
 specified to set/get variable values. Error messages may be via a user
 provided function. This is not designed for high computation use.
 
-%description -l pl
-Ten modu³ rozwi±zuje problem obliczania wyra¿eñ odczytywanych z plików
-konfiguracyjnych bez u¿ywania eval. Obs³ugiwane s± operatory
-arytmetyczne i na ³añcuchach znaków, a tak¿e: warunki, tablice i
-funkcje. Przestrzeñ nazw jest zarz±dzana (ze wzglêdów bezpieczeñstwa),
-mog± byæ podane funkcje do ustawiania i pobierania warto¶ci zmiennych.
-Komunikaty b³êdów mog± byæ przekazywane przez podan± funkcjê. Modu³
-nie jest przeznaczony do skomplikowanych obliczeñ.
+%description -l pl.UTF-8
+Ten moduÅ‚ rozwiÄ…zuje problem obliczania wyraÅ¼eÅ„ odczytywanych z plikÃ³w
+konfiguracyjnych bez uÅ¼ywania eval. ObsÅ‚ugiwane sÄ… operatory
+arytmetyczne i na Å‚aÅ„cuchach znakÃ³w, a takÅ¼e: warunki, tablice i
+funkcje. PrzestrzeÅ„ nazw jest zarzÄ…dzana (ze wzglÄ™dÃ³w bezpieczeÅ„stwa),
+mogÄ… byÄ‡ podane funkcje do ustawiania i pobierania wartoÅ›ci zmiennych.
+Komunikaty bÅ‚Ä™dÃ³w mogÄ… byÄ‡ przekazywane przez podanÄ… funkcjÄ™. ModuÅ‚
+nie jest przeznaczony do skomplikowanych obliczeÅ„.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
