@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Expression
 Summary:	Math::Expression - evaluate arithmetic/string expressions
-Summary(pl.UTF-8):   Math::Expression - obliczanie wyrażeń arytmetycznych i na łańcuchach znaków
+Summary(pl.UTF-8):	Math::Expression - obliczanie wyrażeń arytmetycznych i na łańcuchach znaków
 Name:		perl-Math-Expression
 Version:	1.14
 Release:	1
