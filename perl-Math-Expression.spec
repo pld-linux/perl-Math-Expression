@@ -8,13 +8,13 @@
 Summary:	Math::Expression - evaluate arithmetic/string expressions
 Summary(pl.UTF-8):	Math::Expression - obliczanie wyrażeń arytmetycznych i na łańcuchach znaków
 Name:		perl-Math-Expression
-Version:	1.14
+Version:	1.17
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	3efe3b9f1dca35b7fd0ecc79f0fe2b0d
+# Source0-md5:	44a4a5996dec011b5f4e155ae17e426a
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
